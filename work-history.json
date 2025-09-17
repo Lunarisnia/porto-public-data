@@ -1,0 +1,16 @@
+{
+	"workplaces": [
+		{
+			"name": "Test",
+			"start": "24-01-2000",
+			"end": "24-01-2021",
+			"role": "Software Engineer"
+		}
+		{
+			"name": "Test02",
+			"start": "24-01-2021",
+			"end": "24-01-2028",
+			"role": "Fullstack Software Engineer"
+		}
+	]
+}
