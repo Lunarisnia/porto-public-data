@@ -4,19 +4,23 @@
 			"name": "Test",
 			"start": "24-01-2000",
 			"end": "24-01-2021",
-			"role": "Software Engineer"
+			"role": "Software Engineer",
+			"thumbnail": "/textures/enter.png"
 		},
 		{
 			"name": "Test02",
 			"start": "24-01-2021",
 			"end": "24-01-2028",
-			"role": "Fullstack Software Engineer"
+			"role": "Fullstack Software Engineer",
+			"thumbnail": "/textures/enter.png"
 		},
 		{
 			"name": "Test05",
 			"start": "01-01-2021",
 			"end": "24-01-2028",
-			"role": "Engineer"
+			"role": "Engineer",
+			"thumbnail": "/textures/open.png"
+
 		}
 	]
 }
