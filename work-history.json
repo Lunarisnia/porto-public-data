@@ -20,7 +20,13 @@
 			"end": "24-01-2028",
 			"role": "Engineer",
 			"thumbnail": "/textures/open.png"
-
+		},
+		{
+			"name": "Test04",
+			"start": "01-01-2021",
+			"end": "24-01-2028",
+			"role": "Engineer",
+			"thumbnail": "/textures/enter.png"
 		}
 	]
 }
